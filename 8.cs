@@ -4,10 +4,9 @@ public class Test
 {
 	public static void Main()
 	{
-		double sum,sumold,e,y,z;
-        int x,k;
+		double sum,sumold,e,k,x,y,z;
         e = Convert.ToDouble(Console.ReadLine());
-        x = Convert.ToInt32(Console.ReadLine());
+        x = Convert.ToDouble(Console.ReadLine());
         sumold = x;
         y = x * x * x;
         z = 6;
